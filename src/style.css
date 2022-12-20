@@ -2,14 +2,19 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  font-family: sans-serif;
+  font-family: monospace;
 }
 
 body {
   max-height: 100vh;
   margin-top: 80px;
+  padding: 1em;
 }
 
 ul {
   list-style-type: none;
+}
+
+section {
+  padding: 2em;
 }
