@@ -5,7 +5,7 @@
   <img src="./assets/murple_logo.png" alt="logo" width="140"  height="auto" />
   <br/>
 
-<h3><b>Microverse Capstone Project - Module 1</b></h3>
+<h3><b>Leaderboard Project</b></h3>
 
 </div>
 
@@ -29,9 +29,9 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 THE EXPERIENCE 17 <a name="about-project"></a>
+# 📖 Leaderboard project <a name="about-project"></a>
 
-**THE EXPERIENCE 17** is my first capstone project based on an online website for a conference. But I personalize the content for The Experience Concert.
+The **leaderboard** website displays scores submitted by different players. It also allows you to submit your score. All data is preserved thanks to the external Leaderboard API service.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -43,7 +43,7 @@
     <li>HTML</li>
     <li>CSS</li>
     <li>JavaScript</li>
-    <li>Lato Fonts</li>
+    <li>Webpack</li>
   </ul>
 </details>
 
@@ -51,9 +51,6 @@
 
 ### Key Features <a name="key-features"></a>
 
-- **Responsive design for both Desktop and Mobile**
-- **Speaker section generated dynamically via js**
-- **Designed with mobile first concept**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
