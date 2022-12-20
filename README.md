@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  <img src="./assets/murple_logo.png" alt="logo" width="140"  height="auto" />
+  <img src="./murple_logo.png" alt="logo" width="140"  height="auto" />
   <br/>
 
 <h3><b>Leaderboard Project</b></h3>
@@ -58,7 +58,7 @@ The **leaderboard** website displays scores submitted by different players. It a
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://nuga0909.github.io/HTML-CSS-JavaScript-capstone-project---Concert-page/)
+- [Live Demo Link](https://nuga0909.github.io/Leaderboard/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -69,7 +69,7 @@ The **leaderboard** website displays scores submitted by different players. It a
 To get a local copy up and running, follow these steps:
 
 ```sh
-  https://github.com/Nuga0909/HTML-CSS-JavaScript-capstone-project---Concert-page.git
+  https://github.com/Nuga0909/Leaderboard.git
 ```
 
 ### Prerequisites
@@ -128,8 +128,6 @@ If you like this project, you can support me by giving a ⭐.
 
 <!-- > Give credit to everyone who inspired your codebase. -->
 
-Original design idea by Cindy Shin in [Behance](https://www.behance.net/gallery/29845175/CC-Global-Summit-2015)
-
 I would like to thank all of my code reviewers for giving me constructive feedback.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -152,7 +150,7 @@ I would like to thank all of my code reviewers for giving me constructive feedba
 
 ## 📺 Presentation <a name="presentation"></a>
 
-[Presentation about this project](https://www.loom.com/share/85d80aae470541728e6a09c543fb36c3)
+[Presentation about this project](https://www.loom.com/share/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
