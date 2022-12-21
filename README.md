@@ -2,10 +2,10 @@
 
 <div align="center">
 
-  <img src="./assets/murple_logo.png" alt="logo" width="140"  height="auto" />
+  <img src="./murple_logo.png" alt="logo" width="140"  height="auto" />
   <br/>
 
-<h3><b>Microverse Capstone Project - Module 1</b></h3>
+<h3><b>Leaderboard Project</b></h3>
 
 </div>
 
@@ -29,9 +29,9 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 THE EXPERIENCE 17 <a name="about-project"></a>
+# 📖 Leaderboard project <a name="about-project"></a>
 
-**THE EXPERIENCE 17** is my first capstone project based on an online website for a conference. But I personalize the content for The Experience Concert.
+The **leaderboard** website displays scores submitted by different players. It also allows you to submit your score. All data is preserved thanks to the external Leaderboard API service.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -43,7 +43,7 @@
     <li>HTML</li>
     <li>CSS</li>
     <li>JavaScript</li>
-    <li>Lato Fonts</li>
+    <li>Webpack</li>
   </ul>
 </details>
 
@@ -51,9 +51,6 @@
 
 ### Key Features <a name="key-features"></a>
 
-- **Responsive design for both Desktop and Mobile**
-- **Speaker section generated dynamically via js**
-- **Designed with mobile first concept**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -61,7 +58,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://nuga0909.github.io/HTML-CSS-JavaScript-capstone-project---Concert-page/)
+- [Live Demo Link](https://nuga0909.github.io/Leaderboard/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -72,7 +69,7 @@
 To get a local copy up and running, follow these steps:
 
 ```sh
-  https://github.com/Nuga0909/HTML-CSS-JavaScript-capstone-project---Concert-page.git
+  https://github.com/Nuga0909/Leaderboard.git
 ```
 
 ### Prerequisites
@@ -131,8 +128,6 @@ If you like this project, you can support me by giving a ⭐.
 
 <!-- > Give credit to everyone who inspired your codebase. -->
 
-Original design idea by Cindy Shin in [Behance](https://www.behance.net/gallery/29845175/CC-Global-Summit-2015)
-
 I would like to thank all of my code reviewers for giving me constructive feedback.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -155,7 +150,7 @@ I would like to thank all of my code reviewers for giving me constructive feedba
 
 ## 📺 Presentation <a name="presentation"></a>
 
-[Presentation about this project](https://www.loom.com/share/85d80aae470541728e6a09c543fb36c3)
+[Presentation about this project](https://www.loom.com/share/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
