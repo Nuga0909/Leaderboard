@@ -1,4 +1,3 @@
-// import _ from 'lodash';
 import './style.css';
 
 import { POST_SCORE, POPULATE_BOARD } from './modules/populate';
