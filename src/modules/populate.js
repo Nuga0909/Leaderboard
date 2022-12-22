@@ -1,4 +1,5 @@
 import GET_SCORE from './api';
+import URL from './api';
 
 const boardCont = document.querySelector('.score-cont');
 
@@ -16,4 +17,15 @@ const POPULATE_BOARD = async () => {
   });
 };
 
+const POST_SCORE = async (userInput) => fetch(URL, {
+    method: 'POST',
+    headers: {
+      'content-type': 'application/json',
+    },
+    body: JSON.stringify(userInput),
+  })
+    .then((response) => response.json())
+    .then((data) => data.result);
+  
+export default POST_SCORE;
 export default POPULATE_BOARD;
