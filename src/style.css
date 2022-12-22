@@ -11,6 +11,11 @@ body {
   justify-content: center;
   align-items: center;
   min-height: 80vh;
+  background-color: cadetblue;
+}
+
+h1 {
+  font-size: 3em;
 }
 
 main {
@@ -100,4 +105,8 @@ form.input {
 
 form.input::placeholder {
   color: black;
+}
+
+input {
+  width: -webkit-fill-available;
 }
