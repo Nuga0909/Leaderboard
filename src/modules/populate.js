@@ -17,13 +17,13 @@ const POPULATE_BOARD = async () => {
 };
 
 const POST_SCORE = async (userInput) => fetch(URL, {
-    method: 'POST',
-    headers: {
-      'content-type': 'application/json',
-    },
-    body: JSON.stringify(userInput),
-  })
-    .then((response) => response.json())
-    .then((data) => data.result);
-  
+  method: 'POST',
+  headers: {
+    'content-type': 'application/json',
+  },
+  body: JSON.stringify(userInput),
+})
+  .then((response) => response.json())
+  .then((data) => data.result);
+
 export { POST_SCORE, POPULATE_BOARD };
