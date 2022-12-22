@@ -1,14 +1,22 @@
-import _ from 'lodash';
 import './style.css';
 
-function component() {
-  const element = document.createElement('div');
+import { POST_SCORE, POPULATE_BOARD } from './modules/populate';
 
-  // Lodash, now imported by this script
-  element.innerHTML = _.join(['Hello', 'webpack'], ' ');
-  element.classList.add('hello');
+const form = document.querySelector('form');
+const btnRefresh = document.getElementById('refresh');
 
-  return element;
-}
+POPULATE_BOARD();
 
-document.body.appendChild(component());
+btnRefresh.addEventListener('click', POPULATE_BOARD);
+
+form.onsubmit = (e) => {
+  e.preventDefault();
+  const { name, number } = e.target;
+  let nameValue = name.value;
+  nameValue = nameValue.slice(0, 1).toUpperCase() + nameValue.slice(1).toLowerCase();
+  POST_SCORE({
+    user: nameValue,
+    score: number.value,
+  });
+  form.reset();
+};

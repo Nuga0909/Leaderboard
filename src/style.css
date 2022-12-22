@@ -26,7 +26,7 @@ main {
   margin: 50px 0 0 0;
 }
 
-.leaderboard-container {
+.leaderboard-cont {
   flex: 1;
 }
 
@@ -51,14 +51,14 @@ main {
   background-color: rgb(155, 153, 153);
 }
 
-.score-container {
+.score-cont {
   display: flex;
   flex-direction: column;
   align-items: center;
   border: 3px solid rgb(76, 73, 73);
 }
 
-.score-container li {
+.score-cont li {
   display: flex;
   justify-content: space-between;
   width: 100%;
@@ -69,12 +69,12 @@ main {
   box-sizing: border-box;
 }
 
-.score-container li:nth-child(odd) {
+.score-cont li:nth-child(odd) {
   background-color: rgb(221, 221, 221);
   border: 1px solid rgb(221, 221, 221);
 }
 
-.form-container {
+.form-cont {
   flex: 1;
   display: flex;
   flex-direction: column;
