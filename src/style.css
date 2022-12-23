@@ -11,6 +11,14 @@ body {
   justify-content: center;
   align-items: center;
   min-height: 80vh;
+  background-color: cadetblue;
+}
+
+h1 {
+  font-size: 3em;
+  border-bottom: 5px solid black;
+  width: -webkit-fill-available;
+  text-align: -webkit-center;
 }
 
 main {
@@ -23,7 +31,7 @@ main {
 #main {
   display: flex;
   gap: 60px;
-  margin: 50px 0 0 0;
+  margin: 30px 0 0 0;
 }
 
 .leaderboard-cont {
@@ -90,7 +98,7 @@ main {
 
 #sub {
   text-align: -webkit-right;
-  padding-right: 110px;
+  padding-top: 15px;
 }
 
 form.input {
@@ -100,4 +108,9 @@ form.input {
 
 form.input::placeholder {
   color: black;
+}
+
+input {
+  width: -webkit-fill-available;
+  margin-top: 15px;
 }
