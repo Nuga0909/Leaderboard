@@ -38,12 +38,23 @@ The **leaderboard** website displays scores submitted by different players. It a
 ### Tech Stack <a name="tech-stack"></a>
 
 <details>
-  <summary>Client</summary>
+  <summary>HTML</summary>
   <ul>
-    <li>HTML</li>
-    <li>CSS</li>
-    <li>JavaScript</li>
-    <li>Webpack</li>
+    <li><a href="https://reactjs.org/">React.js</a></li>
+  </ul>
+</details>
+
+<details>
+  <summary>CSS</summary>
+  <ul>
+    <li><a href="https://expressjs.com/">Express.js</a></li>
+  </ul>
+</details>
+
+<details>
+<summary>JAVASCRIPT</summary>
+  <ul>
+    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
   </ul>
 </details>
 
@@ -99,8 +110,9 @@ In order to run this project you need:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- **Add a dynamic button for mobile version**
-- **Make social icons functional**
+- [ ] **ranking with score**
+- [ ] **Award page**
+- [ ] **Competition page**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -147,12 +159,6 @@ I would like to thank all of my code reviewers for giving me constructive feedba
   - [Answer_2] -->
 
 <!-- <p align="right">(<a href="#readme-top">back to top</a>)</p> -->
-
-## 📺 Presentation <a name="presentation"></a>
-
-[Presentation about this project](https://www.loom.com/share/)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LICENSE -->
 
